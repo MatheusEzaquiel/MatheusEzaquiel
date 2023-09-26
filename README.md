@@ -1,6 +1,6 @@
 # 🌿Hi there, I'm Matheus Ezaquiel🌿
 
-- 🌱👨🏽‍💻 I’m currently learning Java and PHP
+- 🌱👨🏽‍💻 I’m currently learning Spring Boot
 - 🌐 Web Developer 
 
 <br/>
